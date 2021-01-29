@@ -12,3 +12,4 @@ else:
     print("Hello", where)
 print("Goodbye from " + sys.argv[0])
 
+hi = "Hello World!"
